@@ -11,11 +11,15 @@ https://langchain-runnable-chatbot.streamlit.app
 
 ---
 
-## Screenshot
+## Screenshots
 
-![LangChain Smart Chatbot Screenshot-1](screenshoot1.png)
-![LangChain Smart Chatbot Screenshot-2](screenshoot2.png)
+### Screenshot 1
 
+![LangChain Smart Chatbot Screenshot 1](assets/screenshoot1.png)
+
+### Screenshot 2
+
+![LangChain Smart Chatbot Screenshot 2](assets/screenshoot2.png)
 ---
 
 ## Project Overview
