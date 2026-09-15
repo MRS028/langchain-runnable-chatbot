@@ -259,13 +259,13 @@ langchain-chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MRS028/YOUR_REPOSITORY.git
+git clone https://github.com/MRS028/langchain-runnable-chatbot.git
 ```
 
 ### 2. Navigate into the project
 
 ```bash
-cd YOUR_REPOSITORY
+cd langchain-runnable-chatbot
 ```
 
 ### 3. Create a virtual environment
